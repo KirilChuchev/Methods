@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\2. Vowels Count\bin\Debug\netcoreapp2.1\2. Vowels Count.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\2. Vowels Count\bin\Debug\netcoreapp2.1\2. Vowels Count.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\2. Vowels Count\bin\Debug\netcoreapp2.1\2. Vowels Count.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\2. Vowels Count\bin\Debug\netcoreapp2.1\2. Vowels Count.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\2. Vowels Count\bin\Debug\netcoreapp2.1\2. Vowels Count.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\2. Vowels Count\obj\Debug\netcoreapp2.1\2. Vowels Count.csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\2. Vowels Count\obj\Debug\netcoreapp2.1\2. Vowels Count.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\2. Vowels Count\obj\Debug\netcoreapp2.1\2. Vowels Count.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\2. Vowels Count\obj\Debug\netcoreapp2.1\2. Vowels Count.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\2. Vowels Count\obj\Debug\netcoreapp2.1\2. Vowels Count.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\2. Vowels Count\obj\Debug\netcoreapp2.1\2. Vowels Count.pdb
