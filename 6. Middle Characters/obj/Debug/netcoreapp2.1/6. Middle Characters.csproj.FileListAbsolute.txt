@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\6. Middle Characters\bin\Debug\netcoreapp2.1\6. Middle Characters.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\6. Middle Characters\bin\Debug\netcoreapp2.1\6. Middle Characters.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\6. Middle Characters\bin\Debug\netcoreapp2.1\6. Middle Characters.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\6. Middle Characters\bin\Debug\netcoreapp2.1\6. Middle Characters.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\6. Middle Characters\bin\Debug\netcoreapp2.1\6. Middle Characters.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\6. Middle Characters\obj\Debug\netcoreapp2.1\6. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\6. Middle Characters\obj\Debug\netcoreapp2.1\6. Middle Characters.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\6. Middle Characters\obj\Debug\netcoreapp2.1\6. Middle Characters.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\6. Middle Characters\obj\Debug\netcoreapp2.1\6. Middle Characters.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\6. Middle Characters\obj\Debug\netcoreapp2.1\6. Middle Characters.pdb

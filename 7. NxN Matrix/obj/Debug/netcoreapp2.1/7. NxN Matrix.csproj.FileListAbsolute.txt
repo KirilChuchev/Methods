@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\7. NxN Matrix\bin\Debug\netcoreapp2.1\7. NxN Matrix.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\7. NxN Matrix\bin\Debug\netcoreapp2.1\7. NxN Matrix.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\7. NxN Matrix\bin\Debug\netcoreapp2.1\7. NxN Matrix.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\7. NxN Matrix\bin\Debug\netcoreapp2.1\7. NxN Matrix.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\7. NxN Matrix\bin\Debug\netcoreapp2.1\7. NxN Matrix.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\7. NxN Matrix\obj\Debug\netcoreapp2.1\7. NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\7. NxN Matrix\obj\Debug\netcoreapp2.1\7. NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\7. NxN Matrix\obj\Debug\netcoreapp2.1\7. NxN Matrix.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\7. NxN Matrix\obj\Debug\netcoreapp2.1\7. NxN Matrix.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\7. NxN Matrix\obj\Debug\netcoreapp2.1\7. NxN Matrix.pdb

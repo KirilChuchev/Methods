@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\8. Factorial Division\bin\Debug\netcoreapp2.1\8. Factorial Division.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\8. Factorial Division\bin\Debug\netcoreapp2.1\8. Factorial Division.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\8. Factorial Division\bin\Debug\netcoreapp2.1\8. Factorial Division.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\8. Factorial Division\bin\Debug\netcoreapp2.1\8. Factorial Division.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\8. Factorial Division\bin\Debug\netcoreapp2.1\8. Factorial Division.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\8. Factorial Division\obj\Debug\netcoreapp2.1\8. Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\8. Factorial Division\obj\Debug\netcoreapp2.1\8. Factorial Division.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\8. Factorial Division\obj\Debug\netcoreapp2.1\8. Factorial Division.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\8. Factorial Division\obj\Debug\netcoreapp2.1\8. Factorial Division.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\8. Factorial Division\obj\Debug\netcoreapp2.1\8. Factorial Division.pdb
