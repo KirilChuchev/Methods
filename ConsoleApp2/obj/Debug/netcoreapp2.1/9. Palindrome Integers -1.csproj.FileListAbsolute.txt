@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp2\bin\Debug\netcoreapp2.1\9. Palindrome Integers -1.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp2\bin\Debug\netcoreapp2.1\9. Palindrome Integers -1.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp2\bin\Debug\netcoreapp2.1\9. Palindrome Integers -1.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp2\bin\Debug\netcoreapp2.1\9. Palindrome Integers -1.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp2\bin\Debug\netcoreapp2.1\9. Palindrome Integers -1.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp2\obj\Debug\netcoreapp2.1\9. Palindrome Integers -1.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp2\obj\Debug\netcoreapp2.1\9. Palindrome Integers -1.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp2\obj\Debug\netcoreapp2.1\9. Palindrome Integers -1.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp2\obj\Debug\netcoreapp2.1\9. Palindrome Integers -1.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp2\obj\Debug\netcoreapp2.1\9. Palindrome Integers -1.pdb
