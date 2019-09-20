@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\10. Top Number\bin\Debug\netcoreapp2.1\10. Top Number.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\10. Top Number\bin\Debug\netcoreapp2.1\10. Top Number.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\10. Top Number\bin\Debug\netcoreapp2.1\10. Top Number.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\10. Top Number\bin\Debug\netcoreapp2.1\10. Top Number.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\10. Top Number\bin\Debug\netcoreapp2.1\10. Top Number.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\10. Top Number\obj\Debug\netcoreapp2.1\10. Top Number.csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\10. Top Number\obj\Debug\netcoreapp2.1\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\10. Top Number\obj\Debug\netcoreapp2.1\10. Top Number.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\10. Top Number\obj\Debug\netcoreapp2.1\10. Top Number.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\10. Top Number\obj\Debug\netcoreapp2.1\10. Top Number.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\10. Top Number\obj\Debug\netcoreapp2.1\10. Top Number.pdb

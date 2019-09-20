@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\11. Array Manipulator\bin\Debug\netcoreapp2.1\11. Array Manipulator.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\11. Array Manipulator\bin\Debug\netcoreapp2.1\11. Array Manipulator.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\11. Array Manipulator\bin\Debug\netcoreapp2.1\11. Array Manipulator.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\11. Array Manipulator\bin\Debug\netcoreapp2.1\11. Array Manipulator.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\11. Array Manipulator\bin\Debug\netcoreapp2.1\11. Array Manipulator.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\11. Array Manipulator\obj\Debug\netcoreapp2.1\11. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\11. Array Manipulator\obj\Debug\netcoreapp2.1\11. Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\11. Array Manipulator\obj\Debug\netcoreapp2.1\11. Array Manipulator.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\11. Array Manipulator\obj\Debug\netcoreapp2.1\11. Array Manipulator.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\11. Array Manipulator\obj\Debug\netcoreapp2.1\11. Array Manipulator.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\11. Array Manipulator\obj\Debug\netcoreapp2.1\11. Array Manipulator.csprojAssemblyReference.cache

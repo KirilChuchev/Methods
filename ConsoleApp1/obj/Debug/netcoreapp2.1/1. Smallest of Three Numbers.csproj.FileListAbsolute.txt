@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp1\bin\Debug\netcoreapp2.1\1. Smallest of Three Numbers.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp1\bin\Debug\netcoreapp2.1\1. Smallest of Three Numbers.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp1\bin\Debug\netcoreapp2.1\1. Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp1\bin\Debug\netcoreapp2.1\1. Smallest of Three Numbers.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp1\bin\Debug\netcoreapp2.1\1. Smallest of Three Numbers.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp1\obj\Debug\netcoreapp2.1\1. Smallest of Three Numbers.csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp1\obj\Debug\netcoreapp2.1\1. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp1\obj\Debug\netcoreapp2.1\1. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp1\obj\Debug\netcoreapp2.1\1. Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp1\obj\Debug\netcoreapp2.1\1. Smallest of Three Numbers.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\07.06.2019\Methods\ConsoleApp1\obj\Debug\netcoreapp2.1\1. Smallest of Three Numbers.pdb
